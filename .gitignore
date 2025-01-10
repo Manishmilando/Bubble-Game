@@ -1,0 +1,87 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+.bower_components/
+
+# Compiled code
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*.swo
+*.bak
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache and temporary files
+.cache/
+.temporary/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Testing and coverage
+coverage/
+.nyc_output/
+test_output/
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.out
+*.a
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Miscellaneous
+*.lock
+*.log
+*.sqlite
+*.sqlite3
+*.iml
+*.obj
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Linux system files
+*~
